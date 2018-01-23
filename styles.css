@@ -1,0 +1,40 @@
+.navbar-light .navbar-brand {
+  color: #74089f;
+  font-family: 'Unica One', cursive;
+}
+
+button.btn {
+  font-family: 'Unica One', cursive;
+}
+
+.jumbotron h1 {
+  color: #74089f;
+  font-weight: bold;
+  font-family: 'Unica One', cursive;
+  font-size: 200px;
+}
+
+.jumbotron {
+  background-image: url(stadium.jpg);
+  background-size: cover;
+}
+
+.jumbotron img {
+  height: 300px;
+}
+
+h3 {
+  color: #74089f;
+  font-family: 'Unica One', cursive;
+}
+
+th {
+  color: #74089f;
+}
+
+img.playerpics {
+  width: 75px;
+  border-style: solid;
+  border-color: #74089f;
+  padding: 1px 1px 1px 1px;
+}
